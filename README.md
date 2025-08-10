@@ -78,8 +78,7 @@ You can use these sample case titles and facts to check retrieval, argument, and
 ## Live Demo and Example Output
 
 - **Live Streamlit App:** [View the app]([http://localhost:8503](https://legalintelligenceagent-cdvpxwusa7hpsednutw2vn.streamlit.app/))  
-  *(Replace with your public URL if deployed, e.g., Streamlit Community Cloud or HuggingFace Spaces)*
-
+Click the view app to check demo
 - **Example Output:**
 ![Sample Output1](outputs/one.png)
 ![Sample Output2](outputs/two.png)
