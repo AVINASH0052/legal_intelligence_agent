@@ -77,7 +77,7 @@ You can use these sample case titles and facts to check retrieval, argument, and
 
 ## Live Demo and Example Output
 
-- **Live Streamlit App:** [View the app](http://localhost:8503)  
+- **Live Streamlit App:** [View the app]([http://localhost:8503](https://legalintelligenceagent-cdvpxwusa7hpsednutw2vn.streamlit.app/))  
   *(Replace with your public URL if deployed, e.g., Streamlit Community Cloud or HuggingFace Spaces)*
 
 - **Example Output:**
