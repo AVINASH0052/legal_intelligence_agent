@@ -1,0 +1,47 @@
+[
+  {
+    "id": "puttaswamy_2017",
+    "title": "Justice K.S. Puttaswamy v. Union of India (2017)",
+    "year": 2017,
+    "court": "Supreme Court of India",
+    "level_weight": 1.0,
+    "tags": ["privacy", "fundamental_rights", "article_21", "proportionality"],
+    "text": "A nine-judge bench recognized the Right to Privacy as a fundamental right under Article 21. Any restriction must satisfy legality (backed by law), legitimate aim, necessity and proportionality, and procedural safeguards. Aadhaar-context dicta emphasized minimal intrusion and data protection norms."
+  },
+  {
+    "id": "modern_dental_2016",
+    "title": "Modern Dental College v. State of Madhya Pradesh (2016)",
+    "year": 2016,
+    "court": "Supreme Court of India",
+    "level_weight": 0.95,
+    "tags": ["proportionality", "reasonableness", "rights_limitations"],
+    "text": "Adopted structured proportionality: legitimate goal, suitability, necessity (least restrictive means), and balancing. Used as a reference framework in later fundamental rights cases."
+  },
+  {
+    "id": "aadhaar_2018",
+    "title": "Aadhaar (2018) Partial Upholding with Safeguards",
+    "year": 2018,
+    "court": "Supreme Court of India",
+    "level_weight": 0.98,
+    "tags": ["privacy", "aadhaar", "data_protection", "proportionality"],
+    "text": "Upheld core Aadhaar for targeted benefits with safeguards, struck down overly broad uses. Reiterated privacy limits: purpose limitation, data minimization, oversight, and security controls."
+  },
+  {
+    "id": "p_dpsp_data",
+    "title": "Data Protection & Procedural Safeguards (General Principles)",
+    "year": 2020,
+    "court": "Doctrinal Summary",
+    "level_weight": 0.6,
+    "tags": ["privacy", "safeguards", "data_minimization", "oversight"],
+    "text": "Key safeguards: clear purpose limitation, storage limitation, independent oversight, user rights, audit trails, breach notification, and proportional penalties. Biometric handling demands high necessity."
+  },
+  {
+    "id": "hypothetical_2023",
+    "title": "Hypothetical: Biometric Mandates in Non-essential Services",
+    "year": 2023,
+    "court": "Comparative Note",
+    "level_weight": 0.4,
+    "tags": ["biometrics", "necessity", "alternatives"],
+    "text": "Where non-essential services are involved, blanket biometric mandates often fail necessity if alternatives (smartcards, OTP, in-person verification) can mitigate fraud comparably with less intrusion."
+  }
+]

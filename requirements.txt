@@ -1,0 +1,5 @@
+numpy
+sentence-transformers
+openai>=1.30.0
+requests
+streamlit>=1.36.0
