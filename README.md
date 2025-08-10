@@ -81,5 +81,5 @@ You can use these sample case titles and facts to check retrieval, argument, and
   *(Replace with your public URL if deployed, e.g., Streamlit Community Cloud or HuggingFace Spaces)*
 
 - **Example Output:**
-
-
+![Sample Output1](outputs/one.png)
+![Sample Output2](outputs/two.png)
