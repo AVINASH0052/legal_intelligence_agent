@@ -82,4 +82,4 @@ You can use these sample case titles and facts to check retrieval, argument, and
 
 - **Example Output:**
 
-  ![Sample Output Screenshot](outputs/sample_output.png)
+
