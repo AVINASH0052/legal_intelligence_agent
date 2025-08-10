@@ -77,7 +77,7 @@ You can use these sample case titles and facts to check retrieval, argument, and
 
 ## Live Demo and Example Output
 
-- **Live Streamlit App:** [View the app]([http://localhost:8503](https://legalintelligenceagent-cdvpxwusa7hpsednutw2vn.streamlit.app/))  
+- **Live Streamlit App:** [View the app]((https://legalintelligenceagent-cdvpxwusa7hpsednutw2vn.streamlit.app/))  
 Click the view app to check demo
 - **Example Output:**
 ![Sample Output1](outputs/one.png)
